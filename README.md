@@ -12,15 +12,22 @@
 
 <a href="https://github.com/MarvinZhong">
   <p align="center">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MarvinZhong&layout=compact&langs_count=6&border_radius=25&bg_color=000000&title_color=40E0D0&icon_color=40E0D0&text_color=FFFFFF" />
+  </p>
+</a>
+
+<a href="https://github.com/MarvinZhong">
+  <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarvinZhong&count_private=true&show_icons=true&border_radius=25&bg_color=000000&title_color=40E0D0&icon_color=40E0D0&text_color=FFFFFF" />
   </p>
 </a>
 
 <a href="https://github.com/MarvinZhong">
   <p align="center">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MarvinZhong&layout=compact&langs_count=6&border_radius=25&bg_color=000000&title_color=40E0D0&icon_color=40E0D0&text_color=FFFFFF" />
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=50&color=40E0D0&center=true&vCenter=true&width=500&height=100&lines=%F0%9F%88%9A+Ex+Nihilo+Ad+Astra+%E2%AD%90" />
   </p>
 </a>
+
 
 
 <!---
